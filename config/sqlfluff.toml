@@ -1,0 +1,6 @@
+[sqlfluff]
+dialect = "postgres"
+
+[sqlfluff.rules]
+capitalisation.keywords = "upper"
+capitalisation.identifiers = "lower"
