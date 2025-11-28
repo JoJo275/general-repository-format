@@ -66,6 +66,8 @@ cd general-repository-format
 
 ## 🏗️ Repository Structure
 
+**Out of sync with actual files. Will hopefully fix soon.**
+
 ```
 📦 general-repository-format
 ├── 📄 README.md              # You are here!
